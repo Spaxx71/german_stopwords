@@ -372,6 +372,16 @@ mich
 mir
 mit
 mithin
+moechten
+moeglich
+moegliche
+moeglichen
+moeglichst
+möchten
+möglich
+mögliche
+möglichen
+möglichst
 muessen
 muesst
 muesste
@@ -401,6 +411,7 @@ nichts
 nie
 niemals
 niemand
+nimmt
 nirgends
 nirgendwo
 noch
@@ -417,6 +428,7 @@ obschon
 obwohl
 oder
 oft
+ohne
 per
 plötzlich
 schließlich
@@ -471,6 +483,8 @@ soviel
 soweit
 sowie
 sowohl
+statt
+stets
 tatsächlich
 tatsächlichen
 tatsächlicher
